@@ -1,0 +1,19 @@
+{
+  "name": "gastos_back",
+  "version": "1.0.0",
+  "description": "Back part for cost control",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielnunezcano/gastosback.git"
+  },
+  "author": "Daniel Núñez Cano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielnunezcano/gastosback/issues"
+  },
+  "homepage": "https://github.com/danielnunezcano/gastosback#readme"
+}
